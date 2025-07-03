@@ -1,2 +1,2 @@
-# clockmod
-clockmod project
+> [!WARNING]
+> Проэкт на данный момент ***в разработке!***
